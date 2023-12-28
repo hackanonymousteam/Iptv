@@ -3,36 +3,6 @@
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV LIBERAL BELEM HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/554
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo MA HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/530
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo GOIÁS HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/849
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo CUIABÁ HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/1117
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo INTER TV CABUGI HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/495
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo INTEGRAÇÃO JUIZ DE FORA
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/494
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RPC CURITIBA Hd
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/505
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RPC MARINGA HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/507
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RPC FOZ DO IGUAÇU HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/506
-
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RBS RS HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/501
-
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RJ HD
 https://8mwx.short.gy/GLOBORJ/index.m3u8
 
@@ -56,9 +26,6 @@ http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Canais | ABERTO",Globo ES HD
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="Canais | ABERTO",Globo SC HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/515
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA HD
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
