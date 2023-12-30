@@ -27,6 +27,9 @@ http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Canais | ABERTO",Globo ES HD
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="Canais | ABERTO",Globo SC HD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/515
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA HD
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
 
@@ -2262,9 +2265,960 @@ http://shd9.mflixhd.xyz/token/SHD9/196474/1x12.mp4
 
 
 
-############################################################################ radio teste
+#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="RADIO TUPI TEST",EstUdio 96.5 FM Rio de Janeiro - RJ
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",EstUdio 96.5 FM Rio de Janeiro - RJ
-http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",A vida moderna de Rocko
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Agro Brasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:0 tvg-id="AplusTV.uk" group-title="BRASIL",APlus TV
+https://stmv1.voxtvhd.com.br/aplustv/aplustv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",ArarunaTV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",As Aventuras de Jackie Chan
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",As Pistas de Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="BRASIL",Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
+#EXTINF:0 tvg-id="Babyfirstenglish.hu" group-title="BRASIL",Babyfirst
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",BET Being Mary Jane
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",BET Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Canal 25 Jundiaí
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Canal 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist-480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Catve2
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Catve FM
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Catve Master TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Comedy Central Pluto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Cultura PR Catve
+http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Dark Matter TV Brazil
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Filmes Suspense
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:0 tvg-id="Futura.br" group-title="BRASIL",Futura
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Ghost TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="BRASIL",ITV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Jeannie é um Gênio
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Jovem Pan Pluto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",KpopTV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/playlist-480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Loupe
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",MasterChef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",MKK Web TV
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",MTV Are you the One?
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",MTV Biggest Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",MTV Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",MTV Spankin
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",MyTime movie network Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Nick Clássico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Nick Jr. Club
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Nick Teen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Nosey Escândalos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Novo Tempo
+http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",NTV Patos de Minas
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",O Reino Infantil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Paramount+ Apresenta
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",People are Awesome
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Cine Clássicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Cine Comédia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Cine Família
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Cine Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Cine Sucessos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Cine Comédia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Estilo de Vida
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Fashionbox
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Filmes Ação
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Filmes Nacionais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Investigação
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="Junior.de" group-title="BRASIL",Junior
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Karaokê por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Porta dos Fundos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Record TV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Record News Espirito Santo
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Record TV RN
+https://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/playlist.m3u8
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="BRASIL",Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Rede Brasil de Comunicação
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:0 tvg-id="Gospel.br" group-title="BRASIL",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Rede Mão Amiga
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Rede Premium TV
+https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Rede RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Rede TV! Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:0 tvg-id="Redevida.br" group-title="BRASIL",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Runtime
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="SantaCeciliaTV.br" group-title="BRASIL",Santa Cecilia TV
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",SBT TV Jornal Caruaru
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",SBT TV Jornal Recife
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",SBT TV Serra Dourada
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:0 tvg-id="SESCTV.br" group-title="BRASIL",Sesc TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Sexy Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Tastemade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Tastemade Brasil
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TELE CINE ACTION
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="Terraviva.br" group-title="BRASIL",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TNT Sports  Brasil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Tokusato
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="TopTV.svn" group-title="BRASIL",Top TV
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Turma da Mônica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Tv Mistérios
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Natureza
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Paisagens por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Retrô
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="TVSeries.pt" group-title="BRASIL",TV Séries
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Shows por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Vida Real
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Aberta
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Água Boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV ALMG
+https://streaming.almg.gov.br/live/tvalmg.m3u8
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="BRASIL",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Atividade
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV BRICS Portuguese
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="BRASIL",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="BRASIL",TV Câmara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Camara de Sao Paulo
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Candides
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Carioca
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Cidade Canal 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Cidade de Petrópolis
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Cinec
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Difusora
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Difusora Leste
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Difusora Sul
+https://stream.amsolution.net.br:8443/live/60eed7da2cf4d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Digital Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist-480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Galega Blumenau
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="BRASIL",TV Gazeta
+https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Gideoes
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Grande Natal HDTV
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Guará
+https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Infor Bahia
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist-480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Interlagos
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Mackenzie
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Mais
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Maná Brasil
+http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Mar
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Metropole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Mundial
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Natal
+http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Nova Onda
+https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Pantanal MS
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Plan
+http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Poços
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Rio Preto
+http://201.48.245.24:1935/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Santa Cruz
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Sim Cachoeiro
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Sim Colatina
+https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Sim Linhares
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Sim Sao Mateus
+https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Sim Vitória
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Sol Comunidade
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Sul
+http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Terceiro Anjo
+https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="BRASIL",TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:0 tvg-id="TVUniao.br" group-title="BRASIL",TV Uniao
+https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV UniSantos
+http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TV Vicosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TVídeoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",TVunisat
+https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Via Morena
+https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
+#EXTINF:0 tvg-id="VintageTV.uk" group-title="BRASIL",Vintage TV
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BRASIL",Yeeaah!
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+
+########Canais | ESPORTESSSSSS#####
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="Canais | ESPORTES" ,TNT Sports 1 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="Canais | ESPORTES" ,TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="Canais | ESPORTES" ,TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="Canais | ESPORTES" ,TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="Canais | ESPORTES" ,TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/allsports.png" group-title="Canais | ESPORTES" ,ALL SPORTS 2
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/rsnews.png" group-title="Canais | ESPORTES" ,RS NEWS
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
+
+
+#### Canais | NOTÍCIAS ####
+#EXTINF:-1 tvg-id="Tvmon.br"  tvg-logo="http://milionariohomeoffice.com.br/img/tvmon.png"group-title="Canais | NOTÍCIAS", TV MON
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/brusque.png" group-title="Canais | NOTÍCIAS", TV BRUSQUE
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w938754737.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/4.png"group-title="Canais | NOTÍCIAS" ,4 POR 4
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mundotv" tvg-logo="http://milionariohomeoffice.com.br/img/redemundotv.png" group-title="Canais | NOTÍCIAS", REDE MUNDO TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1636404133.m3u8
+
+
+###### Canais | NOVELAS #####
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/novelissma.png" group-title="Canais | NOVELAS", NOVELISSIMA
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://milionariohomeoffice.com.br/img/sonyCanais | NOVELAS.png" group-title="Canais | NOVELAS", SONY Canais | NOVELAS
+https://spt-Canais | NOVELAS-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/televisa.png" group-title="Canais | NOVELAS", TELEVISA
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bbcdrama.png" group-title="Canais | NOVELAS", BBC DRAMA
+https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/canela.png" group-title="Canais | NOVELAS",CANELA TELECanais | NOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rcn.png" group-title="Canais | NOVELAS", RCN Canais | NOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1111
+
+
+#### RELIGIOSO#####
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/confiego.png" group-title="Canais | RELIGIOSOS", CONFIEGO
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w366353926.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvnaza.png" group-title="Canais | RELIGIOSOS", NAZARE
+https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1686507449.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cachoeira.png" group-title="Canais | RELIGIOSOS", CACHOEIRA
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/gospelcartoon.png" group-title="Canais | RELIGIOSOS", GOSPEL CARTOON  
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w846169558.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/novotempo.png" group-title="Canais | RELIGIOSOS", NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/horizontes.png" group-title="RÁDIOS", NOVOS HORIZONTES
+https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/chunklist_w2020237655.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/iracema.png" group-title="Canais | RELIGIOSOS", IRACEMA
+https://stmv1.srvstm.com/iracematv/iracematv/chunklist_w1651668842.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA FHD" tvg-logo="http://milionariohomeoffice.com.br/img/redevida.png" group-title="Canais | RELIGIOSOS",REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aparecida.png" group-title="Canais | RELIGIOSOS",APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/evangelizar.png" group-title="Canais | RELIGIOSOS", TV EVANGELIZAR
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/impd.png" group-title="Canais | RELIGIOSOS", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/iurd.png" group-title="Canais | RELIGIOSOS", IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV PAI ETERNO" tvg-name="TV PAI ETERNO" tvg-logo="http://milionariohomeoffice.com.br/img/paieterno.png" group-title="Canais | RELIGIOSOS",TV PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w844685157.m3u8
+
+#EXTINF:-1 tvg-id="HOPE CHANNEL" tvg-name="HOPECHANNEL" tvg-logo="http://milionariohomeoffice.com.br/img/hope.png" group-title="Canais | RELIGIOSOS", HOPE CHANNEL
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b4192000.m3u8
+
+#EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="NUEVO TIEMPO" tvg-logo="http://milionariohomeoffice.com.br/img/nuevo.png" group-title="Canais | RELIGIOSOS",NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
+
+
+
+
+
+
+
+#####Canais | INFANTIL######
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tg.png" group-title="Canais | INFANTIL",TOON GOOGLES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://milionariohomeoffice.com.br/img/cartoon.png" group-title="Canais | INFANTIL",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/striker.png" group-title="Canais | INFANTIL", STRIKERVERSO
+https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/xtreme.png" group-title="Canais | INFANTIL", XTREME
+https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/retrocartoon2.png" group-title="Canais | INFANTIL", RETRO CARTOON 2
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w104760897.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvseries.png" group-title="Canais | FILMES E SERIES", TV SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1768132857.m3u8
+
+
+
+
+##### Canais | FILMES E SERIES ######
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/runtime.png" group-title="Canais | FILMES E SERIES", RUNTIME
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/runtimeacao.png" group-title="Canais | FILMES E SERIES", RUNTIME AÇÃO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/runtimehumor.png" group-title="Canais | FILMES E SERIES", RUNTIME HUMOR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvseries.png" group-title="Canais | FILMES E SERIES", SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/classique.png" group-title="Canais | FILMES E SERIES", CLASSIQUE TV WETERN
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w696892955.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/telaviva.png" group-title="Canais | FILMES E SERIES", TELA VIVA TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1566964103.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/clc.png" group-title="Canais | FILMES E SERIES" ,CLC TV
+http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sou.png" group-title="Canais | FILMES E SERIES", SOU TV
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/chunklist_w1670973484.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/novaplay.png" group-title="Canais | FILMES E SERIES", TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w2132402810.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/osorio.png" group-title="Canais | FILMES E SERIES", TV OSÓRIO NEW
+https://stmv1.srvif.com/classique/classique/chunklist_w281502717.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/soulcine.png" group-title="Canais | FILMES E SERIES" ,SOUL CINE CLUBE
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/fandom.png" group-title="Canais | FILMES E SERIES", FANDOM TV
+http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+##### Canais | VARIEDADES########
+
+
+#EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://milionariohomeoffice.com.br/img/dmaistv.png" group-title="Canais | VARIEDADES", D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 tvg-id="conectamaistv" tvg-logo="http://milionariohomeoffice.com.br/img/conectamaisweb.png" group-title="Canais | VARIEDADES", CONECTA MAIS TV
+http://189.14.239.62:1935/webtv/livestream1/chunklist_w1853358201.m3u8
+
+#EXTINF:-1 tvg-id="vivawebtv" tvg-logo="http://milionariohomeoffice.com.br/img/vivaweb.png" group-title="Canais | VARIEDADES", VIVA WEB
+https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w53904826.m3u8
+
+#EXTINF:-1 tvg-id="odia" tvg-logo="http://milionariohomeoffice.com.br/img/tvodia.png" group-title="Canais | VARIEDADES", TV O DIA - REDE TV
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w591356671.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvc.png" group-title="Canais | VARIEDADES", TVC 16
+https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w384766910.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvcapital.png" group-title="Canais | VARIEDADES", TV CAPITAL - TERESINA
+https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w1840936183.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/brazitv.png" group-title="Canais | VARIEDADES", BRAZITV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/miss.png" group-title="Canais | VARIEDADES", MISS UNIVERSO BR
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/motorvision.png" group-title="Canais | ESPORTES", MOTORVISION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="http://milionariohomeoffice.com.br/img/tastemade.png" group-title="Canais | VARIEDADES", TASTEMADE
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Primertv.br" tvg-logo="http://milionariohomeoffice.com.br/img/primer.png" tvg-shift="0" group-title="Canais | VARIEDADES", PRIMER TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/premiun.png" group-title="Canais | VARIEDADES", REDE PREMIUM TV
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/luzilandia.png" group-title="Canais | VARIEDADES",TV LUZILÂNDIA
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1256406974.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/adesso.png" group-title="Canais | VARIEDADES",       ADESSO TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tve.png" group-title="Canais | VARIEDADES", TVE
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/ngt.png" group-title="Canais | VARIEDADES", REDE NGT
+https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b1596000.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aberta.png" group-title="Canais | VARIEDADES",ABERTA SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/candides.png" group-title="Canais | VARIEDADES",CANDIDÉS
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/japi.png" group-title="Canais | VARIEDADES",JAPI
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8  
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/araruna.png" group-title="Canais | VARIEDADES" ,ARARUNA TV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/rae.png" group-title="Canais | VARIEDADES" ,RAE TV
+https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/net.png" group-title="Canais | VARIEDADES" ,CHANNEL NETWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/astral.png" group-title="Canais | VARIEDADES" ,ASTRAL TV
+https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/wtv.png"group-title="Canais | VARIEDADES" ,WTV BRASIL
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/mkk.png" group-title="Canais | VARIEDADES" ,MKK TV
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/awtv.png" group-title="Canais | VARIEDADES" ,AWTV
+https://5ad482a77183d.streamlock.net/abraao.farinagmail.com/abraao.farinagmail.com/chunklist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/zoom.png" group-title="Canais | VARIEDADES" ,ZOOM
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/oriental.png" group-title="Canais | VARIEDADES" ,EXTREMO ORIENTAL TV
+http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/agrotour.png" group-title="Canais | VARIEDADES" , NOVA TV AGROTOUR
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/espanhol.png" group-title="Canais | VARIEDADES" ,BH TV ESPANHOL
+http://206.217.202.3:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/asian.png" group-title="Canais | VARIEDADES" ,ASIAN
+https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/barcellos.png" group-title="Canais | VARIEDADES" ,BARCELLOS
+https://video01.soultv.com.br/barcellos/barcellos/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/doda.png" group-title="Canais | VARIEDADES" ,DODA EQUESTRIAN
+https://video01.soultv.com.br/doda/doda/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pop.png" group-title="Canais | VARIEDADES" ,POP BOLA
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/viajandopelobrasil.png" group-title="Canais | VARIEDADES" ,VIAJANDO PELO BRASIL
+https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/inter.png" group-title="Canais | VARIEDADES" , INTER
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pontv.png" group-title="Canais | VARIEDADES" ,PONTV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/bemmelhor.png" group-title="Canais | VARIEDADES" , BEM MELHOR
+https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/inova.png" group-title="Canais | VARIEDADES" ,INOVA 360
+https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/guide.png" group-title="Canais | VARIEDADES" ,THE MARKET GUIDE
+https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pessoa.png" group-title="Canais | VARIEDADES" ,UNIVERSIDADE DA PESSOA
+https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/avanca.png" group-title="Canais | VARIEDADES" , AVANÇA BRASIL
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/feliz.png" group-title="Canais | VARIEDADES" ,FELIZ 7 PLAY
+https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvgallo.png" group-title="Canais | VARIEDADES", GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w963992542.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvdestak.png" group-title="Canais | VARIEDADES", DESTAK
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tve.png" group-title="Canais | VARIEDADES", TVE
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1982859985.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redecaxias.png" group-title="Canais | VARIEDADES", REDE CAXIAS TV
+https://stmv1.srvstm.com/luis5346/luis5346/chunklist_w1170617819.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/osasco.png" group-title="Canais | VARIEDADES", OSASCO
+https://596639ebdd89b.streamlock.net/8074/8074/chunklist_w163346537.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/natal.png" group-title="Canais | VARIEDADES" ,GRANDE NATAL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/sol.png" group-title="Canais | VARIEDADES" , SOL BRASIL
+https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/portugal.png" group-title="Canais | VARIEDADES" ,PORTUGALTV
+https://livefocamundo.com:8081/tvmaxrio/index.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/tvc.png"  group-title="Canais | VARIEDADES" ,REDE TVC BRASIL
+https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/wtj.png" group-title="Canais | VARIEDADES" ,WTJ TV
+https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/utv.png" group-title="Canais | VARIEDADES" ,REDE UTV BRASIL
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/king.png" group-title="Canais | VARIEDADES" ,KING
+https://stmv1.srvstm.com/pedropaulomendes3413/pedropaulomendes3413/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/nova.png" group-title="Canais | VARIEDADES" ,NOVA TV REGIONAL
+http://187.95.95.241:7988/regional/index.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/phoenix.png" group-title="Canais | VARIEDADES" ,PHOENIX TV
+https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/smart.png" group-title="Canais | VARIEDADES" ,REDE SMART
+https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/abba.png" group-title="Canais | VARIEDADES" ,ABBA RTV
+https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/jpl.png" group-title="Canais | VARIEDADES" ,JPL TV
+https://streaming.jplproducoes.com.br/JPL1/video.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/matopiba.png" group-title="Canais | VARIEDADES" ,MATIPIBA
+http://187.95.95.241:7983/matopiba/tracks-v2a1/mono.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/florida.png"group-title="Canais | VARIEDADES" ,FLORIDA
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/maistv.png" group-title="Canais | VARIEDADES" ,MAIS tv
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/tvr.png" group-title="Canais | VARIEDADES" ,R
+https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/moda.png" group-title="Canais | VARIEDADES" ,MODA ZINZANE
+https://livefocamundo.com:8081/zinzane/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/a7.png" group-title="Canais | VARIEDADES" ,A7
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cwb.png" group-title="Canais | VARIEDADES", CWB TV
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/chunklist_w496711638.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/eutv.png" group-title="Canais | VARIEDADES", EU TV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvcom.png" group-title="Canais | VARIEDADES", TVCOM SANTOS
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/chunklist_w867529203.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/uniao.png" group-title="Canais | VARIEDADES", UNIÃO DE NATAL
+https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5eb82f6fd9799db20a7129633e7a605b.webp" group-title="Canais | VARIEDADES", REDE MUNDO TV
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/clone.png" group-title="Canais | VARIEDADES", REDE CLONE TV
+https://stmv2.samcast.com.br/redeclonetv/redeclonetv/chunklist_w1759721039.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redeminas.png" group-title="Canais | VARIEDADES", REDE MINAS
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/opniao.png" group-title="Canais | VARIEDADES", OPINIÃO PLAY
+https://livefocamundo.com:8081/opiniaoplay/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/controles.png" group-title="Canais | VARIEDADES", CONTROLES
+https://livefocamundo.com:8081/tvcontroles/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/master.png" group-title="Canais | VARIEDADES",  MASTER TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rdc.png" group-title="Canais | NOTÍCIAS", RDC
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/max.png" group-title="Canais | VARIEDADES", MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/yeeah.png" group-title="Canais | VARIEDADES", YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvverdes.png" group-title="Canais | VARIEDADES", VERDES CAMPOS
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/riomadeira.png" group-title="Canais | VARIEDADES", RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/atividade.png" group-title="Canais | VARIEDADES", ATIVIDADE
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/queens.png" group-title="Canais | VARIEDADES", QUEENS UNITED TV
+https://cdn.connectbr.com.br/Queens/video.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/blast.png" group-title="Canais | VARIEDADES" ,BLAST CHANNEL
+https://video01.logicahost.com.br/blast/blast/playlist.m3u8
+
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/central2.png" group-title="Canais | VARIEDADES" ,CENTRAL TV 2
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvvideo.png" group-title="Canais | VARIEDADES", TVIDEONEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/saude.png" group-title="Canais | VARIEDADES", CANAL SAÚDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/galega.png" group-title="Canais | VARIEDADES",GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvmetropole.br" " tvg-logo="http://milionariohomeoffice.com.br/img/metropole.png" group-title="Canais | VARIEDADES", TV METRÓPOLE
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/awtv.png" group-title="Canais | VARIEDADES", AWTV
+https://video01.logicahost.com.br/awtv/awtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redefamilia.png" group-title="Canais | VARIEDADES", REDE FAMÍLIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/gramado.png" group-title="Canais | VARIEDADES", GRAMADO
+https://video01.kshost.com.br:4443/tv4477/tv4477/chunklist_w1113550618.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redesul.png" group-title="Canais | VARIEDADES", REDE SUL DE TELEVISÃO
+https://livefocamundo.com:8081/redesul/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rederc.png" group-title="Canais | VARIEDADES", REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/chunklist_w168745200.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cidadeoeste.png" group-title="Canais | VARIEDADES", CIDADE OESTE
+http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/utv.png" group-title="Canais | VARIEDADES", REDE UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/morena.png" group-title="Canais | VARIEDADES", VIA MORENA
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/valedasartes.png" group-title="Canais | VARIEDADES", VALE DAS ARTES
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sptv.png" group-title="Canais | VARIEDADES", REDE SPTV
+https://video01.logicahost.com.br/websptv/websptv/chunklist_w703004531.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/lagos.png" group-title="Canais | VARIEDADES", LAGOS
+https://video01.kshost.com.br:4443/marcos1646/marcos1646/chunklist_w1607825996.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cecilia.png" group-title="Canais | VARIEDADES",TV SANTA CECILÍA
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sdp.png" group-title="Canais | VARIEDADES", REDE SDP TV
+https://video01.kshost.com.br/moobi3963/moobi3963/chunklist_w1375409456.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rbc.png" group-title="Canais | VARIEDADES", TV RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist_w1365170441.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/plan.png" group-title="Canais | VARIEDADES", PLAN
+https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1271257940.m3u8?867be4bf049218c587185d6370c83e6d
+
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/granderede.png" group-title="Canais | VARIEDADES", GRANDE REDE
+https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1124761307.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/viajandopelobrasil.png" group-title="Canais | VARIEDADES", VIAJANDO PELO BRASIL
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/brasiltv.png" group-title="Canais | VARIEDADES", BRASIL TV
+https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w746475680.m3u8
+
+
+#### CANAIS Canais | ABERTO #######
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/guaraja.png" group-title="Canais | ABERTO", SBT TV GUAJARA (PA)
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/catve.png" group-title="Canais | ABERTO", CATVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1988979924.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://milionariohomeoffice.com.br/img/pampa.png" group-title="Canais | ABERTO", PAMPA - REDE TV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvbrasil.png" group-title="Canais | ABERTO", TV BRASIL - JOINVILLE
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/futura.png" group-title="Canais | ABERTO",FDR -FUTURA (CE)
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="Canais | ABERTO",GLOBO TV FHD
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64592
+
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL SD" tvg-logo="http://milionariohomeoffice.com.br/img/redebrasil.png" group-title="Canais | ABERTO", REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w13954468.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/camara.png" group-title="Canais | ABERTO",TV CÂMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="Canais | ABERTO", SBT - TV CIDADE VERDE - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvparaense.png" group-title="Canais | ABERTO", SBT TV PARAENSE (PA)
+https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="Canais | ABERTO", RECORD TV MT
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="Canais | ABERTO", RECORD TV MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/arapuam.png" group-title="Canais | ABERTO", REDE TV! TV ARAPUAN (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvpantanal.png" group-title="Canais | ABERTO", REDE TV! TV PANTANAL (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="http://milionariohomeoffice.com.br/img/cnn.png" group-title="Canais | ABERTO",CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="Canais | ABERTO" ,CONQUISTA - RECORD TV
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+##### MUSICA ######
+
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/ocko.png" group-title="Canais | MÚSICA", OCKO STAR
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/elemental.png"group-title="Canais | MÚSICA" ,ELEMENTAL CHANNEL
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/catedral.png" group-title="Canais | MÚSICA", CATEDRAL DO ROCK
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w1704335745.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/kronehits.png" group-title="Canais | MÚSICA", KRONEHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/m2o.png" group-title="Canais | MÚSICA", M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 
